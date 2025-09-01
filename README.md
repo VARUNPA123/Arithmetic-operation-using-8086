@@ -2,18 +2,13 @@
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
-
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
-
----
 
 ## APPARATUS REQUIRED
 Personal Computer with MASM Software
 
 ## 1. ADDITION
-
 #### Algorithm
-
 1. Initialize memory location in HL register.
 2. Store 1st data.
 3. Increment HL to enter 2nd data.
@@ -29,7 +24,6 @@ Personal Computer with MASM Software
 
 
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -51,7 +45,6 @@ END
 ```
 
 #### Output Table
-
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 | 1200:12                 | 1204:24                  |
@@ -61,12 +54,7 @@ END
 
 
 #### Manual Calculations
-
 <img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/8414af0c-263e-4407-b710-e2ec6d97b9f1" />
-
-
-
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
@@ -74,10 +62,7 @@ END
 
 <img width="637" height="402" alt="mpmc_addout" src="https://github.com/user-attachments/assets/707a6219-1aac-436a-92ea-e7067f7421ba" />
 
-
-
 ## 2. SUBTRACTION
-
 #### Algorithm
 
 1. Initialize memory and store 1st data.
@@ -87,12 +72,9 @@ END
 5. Store result.
 
 ## FLOWCHART
-
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
-
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -113,8 +95,6 @@ CODE ENDS
 END
 ```
 
-
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -128,25 +108,15 @@ END
 
 <img width="1600" height="706" alt="image" src="https://github.com/user-attachments/assets/14cd765f-4c6a-4480-9405-851ef951cb7c" />
 
-
-
----
-
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
 <img width="638" height="397" alt="mpmc_sub" src="https://github.com/user-attachments/assets/804300e2-8727-4d70-b5ce-54480fbbc7b9" />
 
 <img width="627" height="398" alt="mpmc_subout" src="https://github.com/user-attachments/assets/d9d0755b-1164-4e29-8870-537e2934bde3" />
 
-
-
-
-
 ## 3. MULTIPLICATION
 
 #### Algorithm
-
 1. Initialize memory and store operands.
 2. Move operands to registers.
 3. Multiply.
@@ -190,20 +160,13 @@ END
 
 <img width="1600" height="1238" alt="image" src="https://github.com/user-attachments/assets/9e867f2c-0f9e-42e3-8f5a-cefec3fbf839" />
 
-
-
----
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
 <img width="640" height="398" alt="mpmc_mul" src="https://github.com/user-attachments/assets/4fe62bed-81f2-4a2b-b207-d28a9058af1e" />
 
 <img width="632" height="397" alt="mpmc_mulout" src="https://github.com/user-attachments/assets/4c533a4c-9393-4608-be45-6ad5273fae64" />
 
-
-
 ## 4. DIVISION
-
 #### Algorithm
 
 1. Load memory location of operands.
@@ -215,7 +178,6 @@ END
 
 
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -246,16 +208,10 @@ END
 
 <img width="1600" height="755" alt="image" src="https://github.com/user-attachments/assets/fb6497a0-e6dd-4d6b-a147-f8e23b9b33db" />
 
-
-
----
 ## OUTPUT FROM MASM SOFTWARE
-
 <img width="637" height="402" alt="mpmc_div" src="https://github.com/user-attachments/assets/471d3213-c320-4f9b-9c4a-c9cd9cf76230" />
 
 <img width="637" height="401" alt="mpmc_divout" src="https://github.com/user-attachments/assets/83c273bb-91d0-47a8-8b7f-d1655428e32d" />
 
-
 ## RESULT
-
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
