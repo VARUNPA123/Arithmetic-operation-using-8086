@@ -11,8 +11,6 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 * Personal Computer with MASM Software
 
----
-
 ## 1. ADDITION
 
 #### Algorithm
