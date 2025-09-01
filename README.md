@@ -8,8 +8,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 ---
 
 ## APPARATUS REQUIRED
-
-* Personal Computer with MASM Software
+Personal Computer with MASM Software
 
 ## 1. ADDITION
 
