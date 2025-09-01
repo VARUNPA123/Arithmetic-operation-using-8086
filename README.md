@@ -57,15 +57,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-| 1200:12                 | 24:1204                  |
-| 1201:34                 | 68:1205                  |
-| 1202:12                 | 00:1206                  |
-| 1203:34                 | C4:1207                  |
+| 1200:12                 | 1204:24                  |
+| 1201:34                 | 1205:68                  |
+| 1202:12                 | 1206:00                  |
+| 1203:34                 | 1207:C4                  |
 
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1486" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a885e8a-21cf-4a1a-92be-b9e8b13a575e" />
+
 
 ---
 
@@ -100,14 +101,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-| 1200:12                 | 00:1204                  |
-| 1201:34                 | 00:1205                  |
-| 1202:12                 | 83:1206                  |
-| 1203:34                 | C4:1207                  |
+| 1200:12                 | 1204:00                  |
+| 1201:34                 | 1205:00                  |
+| 1202:12                 | 1206:83                  |
+| 1203:34                 | 1207:C4                  |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1374" height="1600" alt="image" src="https://github.com/user-attachments/assets/a2607e8d-123d-49e9-9b3f-303f5aa34bbd" />
+
 
 ---
 
@@ -158,14 +160,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-| 1200:12                 | 44:1204                  |
-| 1201:34                 | 51:1205                  |
-| 1202:12                 | 97:1206                  |
-| 1203:34                 | 0A:1207                  |
+| 1200:12                 | 1204:44                  |
+| 1201:34                 | 1205:51                  |
+| 1202:12                 | 1206:97                  |
+| 1203:34                 | 1207:0A                  |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="622" height="1341" alt="image" src="https://github.com/user-attachments/assets/7f19cd64-93e8-444c-a6d2-35bcc6e110a0" />
+
 
 ---
 
@@ -212,14 +215,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-| 1200:12                 | 01:1204                  |
-| 1201:34                 | 00:1205                  |
-| 1202:12                 | 00:1206                  |
-| 1203:34                 | 00:1207                  |
+| 1200:12                 | 1204:01                  |
+| 1201:34                 | 1205:00                  |
+| 1202:12                 | 1206:00                  |
+| 1203:34                 | 1207:00                  |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="832" height="1600" alt="image" src="https://github.com/user-attachments/assets/2be11c20-0d87-46a0-99f6-0eeb7dfb436f" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
