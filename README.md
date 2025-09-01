@@ -108,7 +108,7 @@ JNC L1
 INC CL
 L1:
 MOV [SI+04H],AX
-MOV [SI+04H],CL
+MOV [SI+06H],CL
 MOV AH,4CH
 INT 21H
 CODE ENDS
@@ -123,12 +123,12 @@ END
 | ----------------------- | ------------------------ |
 | 1200:12                 | 1204:00                  |
 | 1201:34                 | 1205:00                  |
-| 1202:12                 | 1206:83                  |
+| 1202:12                 | 1206:00                  |
 | 1203:34                 | 1207:C4                  |
 
 #### Manual Calculations
 
-<img width="1374" height="1600" alt="image" src="https://github.com/user-attachments/assets/a2607e8d-123d-49e9-9b3f-303f5aa34bbd" />
+<img width="1055" height="1487" alt="image" src="https://github.com/user-attachments/assets/a618d0ca-346a-407b-8408-4d9f15013cd0" />
 
 
 ---
@@ -136,9 +136,11 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="637" height="398" alt="mpmc_sub" src="https://github.com/user-attachments/assets/a4214887-90ff-4ce9-9e3a-8d736f9a947d" />
+<img width="638" height="397" alt="mpmc_sub" src="https://github.com/user-attachments/assets/804300e2-8727-4d70-b5ce-54480fbbc7b9" />
 
-<img width="635" height="400" alt="mpmc_subout" src="https://github.com/user-attachments/assets/17a99766-836c-48fb-892b-87ab07c0bf81" />
+<img width="627" height="398" alt="mpmc_subout" src="https://github.com/user-attachments/assets/d9d0755b-1164-4e29-8870-537e2934bde3" />
+
+
 
 
 
