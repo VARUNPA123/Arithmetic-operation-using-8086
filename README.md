@@ -67,6 +67,12 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
+<img width="637" height="395" alt="mpmc_add" src="https://github.com/user-attachments/assets/4504a489-38d3-4316-924e-b61b7ef55b9c" />
+
+<img width="637" height="402" alt="mpmc_addout" src="https://github.com/user-attachments/assets/707a6219-1aac-436a-92ea-e7067f7421ba" />
+
+
+
 ## 2. SUBTRACTION
 
 #### Algorithm
@@ -100,6 +106,12 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="637" height="398" alt="mpmc_sub" src="https://github.com/user-attachments/assets/a4214887-90ff-4ce9-9e3a-8d736f9a947d" />
+
+<img width="635" height="400" alt="mpmc_subout" src="https://github.com/user-attachments/assets/17a99766-836c-48fb-892b-87ab07c0bf81" />
+
+
 
 ## 3. MULTIPLICATION
 
@@ -149,6 +161,12 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
+<img width="640" height="398" alt="mpmc_mul" src="https://github.com/user-attachments/assets/4fe62bed-81f2-4a2b-b207-d28a9058af1e" />
+
+<img width="632" height="397" alt="mpmc_mulout" src="https://github.com/user-attachments/assets/4c533a4c-9393-4608-be45-6ad5273fae64" />
+
+
+
 ## 4. DIVISION
 
 #### Algorithm
@@ -193,6 +211,9 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="637" height="402" alt="mpmc_div" src="https://github.com/user-attachments/assets/471d3213-c320-4f9b-9c4a-c9cd9cf76230" />
+
+<img width="637" height="401" alt="mpmc_divout" src="https://github.com/user-attachments/assets/83c273bb-91d0-47a8-8b7f-d1655428e32d" />
 
 
 ## RESULT
