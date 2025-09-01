@@ -57,7 +57,9 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 1200:12                 | 24:1204                  |
+| 1201:34                 | 68:1205                  |
+
 
 #### Manual Calculations
 
